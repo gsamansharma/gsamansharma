@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gsamansharma
 - 👀 I’m interested in Programming and Web development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning NodeJS
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me
   - Mail gsamansharma@gmail.com
